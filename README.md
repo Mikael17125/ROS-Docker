@@ -93,4 +93,4 @@ y1 = np.array([1, 2,  -4, 1, -3])
 
 # VIDEO LINK
 -----
-[Video Documentation]([https://www.google.com](https://youtu.be/q5Tb2qVTZEU))
+[Youtube : Video Documentation Link](https://www.youtube.com/watch?v=q5Tb2qVTZEU)
