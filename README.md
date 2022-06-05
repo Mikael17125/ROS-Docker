@@ -53,12 +53,12 @@ cd ~/movel_ws/src/path_generator/
 docker build -t path-generator:1.0 .
 ```
 ```
-cd ~/movel_ws/src/path_reduction/
-docker build -t path-reduction:1.0 .
-```
-```
 cd ~/movel_ws/src/rviz_visualizer/
 docker build -t rviz-visualizer:1.0 .
+```
+```
+cd ~/movel_ws/src/path_reduction/
+docker build -t path-reduction:1.0 .
 ```
 Start Program
 ```
