@@ -41,6 +41,7 @@ Create workspace folder
 
 ```
 mkdir -p ~/movel_ws/src
+cd ~/movel_ws/src
 ```
 Clone project
 ```
