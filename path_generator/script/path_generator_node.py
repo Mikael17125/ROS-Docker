@@ -54,8 +54,8 @@ def main():
             marker_msg.type = 2
             marker_msg.action = 0
             if(os.environ["COORD"] == "0"):
-                marker_msg.pose.position.x = x1[i]
-                marker_msg.pose.position.y = y1[i]
+                marker_msg.pose.position.x = x[i]
+                marker_msg.pose.position.y = y[i]
             else:
                 marker_msg.pose.position.x = x1[i]
                 marker_msg.pose.position.y = y1[i]
